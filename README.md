@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Lucas Vecino
 
 🎓 **Estudante de Sistemas de Informação (PUC-PR)**  
-💻 **Desenvolvedor Web (Front-end e Back-end)**  
+💻 **Desenvolvedor Web (Front-end e Back-end), e mobile (android) **  
 🚀 Apaixonado por tecnologia, aprendizado contínuo e criação de soluções inovadoras.
 
 ---
@@ -15,6 +15,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ---
 
